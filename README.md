@@ -80,5 +80,5 @@ You can modify the behavior of the SSD FUSE system by changing parameters in `ss
 
 ##  Contact
 For any questions or suggestions, feel free to reach out:
- Email: lucky910508@gmail.com  
+ Email: 
  GitHub Issues: [Open an issue](https://github.com/Unlucky910508/SSD-fuse/issues)
